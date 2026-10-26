@@ -98,8 +98,6 @@ The ThingSpeak charts also showed changes in sensor readings over time.
 
 The public source code uses a placeholder instead of a real ThingSpeak Write API Key.
 
-To run the project and send data to ThingSpeak, replace `API_KEY` with a valid Write API Key from your own ThingSpeak channel.
-
 ## Conclusion
 
 This project demonstrates how an ESP32 can collect environmental data using a DHT22 sensor and transmit it to an IoT cloud platform for remote monitoring and visualization.
